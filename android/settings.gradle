@@ -1,0 +1,3 @@
+rootProject.name = 'KeyboardCoverDemo'
+
+include ':app'
