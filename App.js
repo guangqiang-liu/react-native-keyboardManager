@@ -1,5 +1,5 @@
 /**
- * IconFontDemo
+ * keyboardManagerDemo
  * 作者Git：https://github.com/guangqiang-liu
  * 技术交流群：620792950
  * 作者QQ：1126756952
